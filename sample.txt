@@ -1,0 +1,6 @@
+Abstractive text summarization generates legible sentences from the entirety of the text provided. It rewrites large amounts of text by creating acceptable representations, which is further processed and summarized by natural language processing.
+
+What makes this method unique is its almost AI-like ability to use a machine’s semantic capability to process text and iron out the kinks using NLP.
+
+Although it might not be as simple to use compared to the extractive method, in many situations, abstract summarization is far more useful. In a lot of ways, it is a precursor to full-fledged AI writing tools. However, this does not mean that there is no need for extractive summarization.
+
